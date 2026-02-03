@@ -52,7 +52,7 @@ const translations = {
     // Footer
     "footer.support": "Support",
     "footer.privacy": "Privacy Policy",
-    "footer.copyright": "© 2025 [YOUR_NAME_OR_COMPANY]. All rights reserved.",
+    "footer.copyright": "© 2026 Olof Petterson. All rights reserved.",
 
     // Support Page
     "support.title": "Support",
@@ -85,7 +85,7 @@ const translations = {
     // Privacy Page
     "privacy.title": "Privacy Policy",
     "privacy.subtitle": "Your data stays on your device",
-    "privacy.updated": "Last updated: January 2025",
+    "privacy.updated": "Last updated: February 2026",
     "privacy.highlights.local": "Local Storage Only",
     "privacy.highlights.notrack": "No Tracking",
     "privacy.highlights.encrypted": "Encrypted Secrets",
@@ -164,7 +164,7 @@ const translations = {
     // Footer
     "footer.support": "Support",
     "footer.privacy": "Datenschutz",
-    "footer.copyright": "© 2025 [YOUR_NAME_OR_COMPANY]. Alle Rechte vorbehalten.",
+    "footer.copyright": "© 2026 Olof Petterson. Alle Rechte vorbehalten.",
 
     // Support Page
     "support.title": "Support",
@@ -197,7 +197,7 @@ const translations = {
     // Privacy Page
     "privacy.title": "Datenschutzerklärung",
     "privacy.subtitle": "Deine Daten bleiben auf deinem Gerät",
-    "privacy.updated": "Zuletzt aktualisiert: Januar 2025",
+    "privacy.updated": "Zuletzt aktualisiert: Februar 2026",
     "privacy.highlights.local": "Nur lokale Speicherung",
     "privacy.highlights.notrack": "Kein Tracking",
     "privacy.highlights.encrypted": "Verschlüsselte Geheimnisse",
@@ -276,7 +276,7 @@ const translations = {
     // Footer
     "footer.support": "Soporte",
     "footer.privacy": "Política de Privacidad",
-    "footer.copyright": "© 2025 [YOUR_NAME_OR_COMPANY]. Todos los derechos reservados.",
+    "footer.copyright": "© 2026 Olof Petterson. Todos los derechos reservados.",
 
     // Support Page
     "support.title": "Soporte",
@@ -309,7 +309,7 @@ const translations = {
     // Privacy Page
     "privacy.title": "Política de Privacidad",
     "privacy.subtitle": "Tus datos permanecen en tu dispositivo",
-    "privacy.updated": "Última actualización: Enero 2025",
+    "privacy.updated": "Última actualización: Febrero 2026",
     "privacy.highlights.local": "Solo Almacenamiento Local",
     "privacy.highlights.notrack": "Sin Rastreo",
     "privacy.highlights.encrypted": "Secretos Cifrados",
@@ -388,7 +388,7 @@ const translations = {
     // Footer
     "footer.support": "サポート",
     "footer.privacy": "プライバシーポリシー",
-    "footer.copyright": "© 2025 [YOUR_NAME_OR_COMPANY]. All rights reserved.",
+    "footer.copyright": "© 2026 Olof Petterson. All rights reserved.",
 
     // Support Page
     "support.title": "サポート",
@@ -421,7 +421,7 @@ const translations = {
     // Privacy Page
     "privacy.title": "プライバシーポリシー",
     "privacy.subtitle": "あなたのデータはデバイスに残ります",
-    "privacy.updated": "最終更新：2025年1月",
+    "privacy.updated": "最終更新：2026年2月",
     "privacy.highlights.local": "ローカルストレージのみ",
     "privacy.highlights.notrack": "トラッキングなし",
     "privacy.highlights.encrypted": "暗号化されたシークレット",
