@@ -329,6 +329,15 @@ section {
   border: 1px dashed var(--color-muted-text);
 }
 
+.screenshot {
+  flex: 0 0 auto;
+  height: 560px;
+  width: auto;
+  border-radius: 24px;
+  scroll-snap-align: center;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+}
+
 /* What's New */
 .whats-new {
   background: var(--color-surface);
@@ -604,6 +613,10 @@ footer {
 
   .screenshot-placeholder {
     width: 220px;
+    height: 440px;
+  }
+
+  .screenshot {
     height: 440px;
   }
 }
